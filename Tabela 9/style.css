@@ -1,0 +1,13 @@
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            font-family: Arial, sans-serif;
+        }
+        th, td {
+            border: 1px solid #ff7b00;
+            padding: 10px;
+            text-align: center;
+        }
+        th {
+            background-color: #fffb10;
+        }
